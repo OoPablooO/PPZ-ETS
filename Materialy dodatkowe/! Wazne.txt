@@ -1,0 +1,3 @@
+﻿Uwaga: W pliku R159161720.dwg/.dxf w rzucie z góry (bez wymiaru w DWG) jest wartość 27 mm,
+a powinno być 28 mm. Proszę na to zwrócić uwagę podczas rysowania w CAD. Otwór jest położony
+13+14 mm, co nie ma uzasadnienia.
