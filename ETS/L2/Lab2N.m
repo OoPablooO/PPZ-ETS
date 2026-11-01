@@ -16,3 +16,5 @@ Tzz=0;
 Pz=Ub*(Tu+Tzz);
 k=1/Ub;
 T=Q/Ub;
+
+Ps=Ub*(Tu+35);
